@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Loopiejuice-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Loopiejuice-Regular'), url('Loopiejuice-Regular.woff') format('woff');
+}
+
+h1 {
+    /* font-family: 'SEGA LOGO FONT'; */
+    font-family: 'Loopiejuice-Regular';
+    font-weight: 200;
+    color: rgb(198, 172, 255);
+
+}
+
+input {
+    font-family: 'Loopiejuice-Regular';
+}

@@ -1,0 +1,29 @@
+codenotes:
+using react for the first time while following along with ZTM.
+the first videos left me with the impression of how react works (atoms molecules and structures that trickle down)
+and now we are exploring the code files
+
+he explains "how to update old one"
+
+shows several version, first things first is create-react-app _____
+cd there____
+npm start it
+
+ReactDOM is what we use
+import .css for each different component
+import React, {Component} from 'react';
+
+google search tachyons styles input for codes
+ 
+class Hello extends Component {
+  render() {
+    return (
+        <div>
+            <h1>Hello World</h1>
+            <p>welcome to react</p>
+        </div>
+    );
+}   
+}
+ 
+export default Hello;
