@@ -23,3 +23,22 @@ h1 {
 input {
     font-family: 'Loopiejuice-Regular';
 }
+.tc{
+    position: relative;
+    z-index: 0;
+}
+
+.modal-container{
+    position: absolute;
+    /* top: 0; */
+    /* bottom: 0; */
+    /* left: 0; */
+    /* right: 0; */
+    z-index: 1;
+}
+.modal-container .modal{
+    /* position: relative; */
+    background: rgba(0, 0, 0, .5);
+    height: 500px;
+    width: 500px;
+}

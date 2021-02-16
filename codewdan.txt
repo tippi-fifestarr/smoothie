@@ -1,0 +1,21 @@
+Notes for Codew/dan 2/15/21
+
+looker over lil
+make a new .js component
+asap = simple
+
+make a state value
+
+remember that things can only flow down
+so if you want to get something from somewhere 
+
+make a testable (appears in the app) component
+then make the component 
+
+dans a good tester
+old projects
+
+next step, from SRS make the "name" display in the modal 
+==>using cardClickhandler and passing through event.dataset.data-value 
+
+a function or component that controls which data is being desplayed
